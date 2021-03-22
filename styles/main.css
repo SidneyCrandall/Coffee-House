@@ -13,12 +13,12 @@
 
 .shop  {
     flex-basis: 25%;
-    border: 5px slateblue dotted;
+    border: 5px black dotted;
     padding: 0.5em;
     margin: 0.1em;
-    text-align: left;
-    color:tomato;
+    text-align: center;
+    color: darkslategray;
 }
 body {
-    background-color: bisque;
+    background-color: lightblue;
 }
